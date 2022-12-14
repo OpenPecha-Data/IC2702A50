@@ -1,0 +1,26 @@
+id: IC2702A50
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 10:38:04.998255+00:00
+last_modified: 2022-12-14 10:38:04.998260+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-081-007
+  eft-text-version: 1.2.3 2020
+  title: Toh_438-Tara_with_Twenty-One_Verses_of_Homage-v2
+bases:
+  C4B9:
+    source_metadata: null
+    order: 1
+    base_file: C4B9.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
